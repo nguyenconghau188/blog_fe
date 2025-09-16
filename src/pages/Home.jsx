@@ -1,5 +1,5 @@
 import React from "react";
-import LogoutButton from "../features/auth/LogoutButton";
+import LogoutButton from "../features/auth/components/LogoutButton";
 
 const Home = () => {
   return (
